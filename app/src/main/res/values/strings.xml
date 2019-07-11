@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">ALC challenge 1</string>
+  <string name="alc_title">AlC 4 Phase 1</string>
+  <string name="alc_url">https://andela.com/alc/</string>
+  <string name="about_alc">About AlC</string>
+  <string name="profile">Profile</string>
+</resources>
