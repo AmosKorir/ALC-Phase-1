@@ -4,4 +4,9 @@
   <string name="alc_url">https://andela.com/alc/</string>
   <string name="about_alc">About AlC</string>
   <string name="profile">Profile</string>
+  <string name="country">Country</string>
+  <string name="email">Email</string>
+  <string name="phone_number">Phone number</string>
+  <string name="slack_name">Slack name</string>
+  <string name="track">Track</string>
 </resources>

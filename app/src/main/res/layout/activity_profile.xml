@@ -45,7 +45,6 @@
             android:layout_height="wrap_content"
             android:layout_marginBottom="16dp"
             android:layout_marginTop="44dp"
-            android:text="Korir Kipkoech  Amos"
             android:textSize="24sp"
             app:layout_constraintBottom_toTopOf="@+id/divider"
             app:layout_constraintEnd_toEndOf="@+id/imageView"
@@ -74,7 +73,7 @@
             android:layout_marginLeft="52dp"
             android:layout_marginStart="52dp"
             android:layout_marginTop="52dp"
-            android:text="Track"
+            android:text="@string/track"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/divider"
             />
@@ -85,7 +84,7 @@
             android:layout_marginLeft="52dp"
             android:layout_marginStart="52dp"
             android:layout_marginTop="22dp"
-            android:text="Country"
+            android:text="@string/country"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView3"
             />
@@ -96,7 +95,7 @@
             android:layout_marginLeft="51dp"
             android:layout_marginStart="51dp"
             android:layout_marginTop="32dp"
-            android:text="Email"
+            android:text="@string/email"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView4"
             />
@@ -107,7 +106,7 @@
             android:layout_marginLeft="52dp"
             android:layout_marginStart="52dp"
             android:layout_marginTop="27dp"
-            android:text="Phone number"
+            android:text="@string/phone_number"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView5"
             />
@@ -118,7 +117,6 @@
             android:layout_marginLeft="62dp"
             android:layout_marginStart="62dp"
             android:layout_marginTop="52dp"
-            android:text="Android"
             app:layout_constraintStart_toEndOf="@+id/textView3"
             app:layout_constraintTop_toBottomOf="@+id/divider"
             />
@@ -129,7 +127,6 @@
             android:layout_marginLeft="48dp"
             android:layout_marginStart="48dp"
             android:layout_marginTop="21dp"
-            android:text="Kenya"
             app:layout_constraintStart_toEndOf="@+id/textView4"
             app:layout_constraintTop_toBottomOf="@+id/track"
             />
@@ -140,7 +137,6 @@
             android:layout_marginLeft="63dp"
             android:layout_marginStart="63dp"
             android:layout_marginTop="32dp"
-            android:text="amoskrr@gmail.com"
             app:layout_constraintStart_toEndOf="@+id/textView5"
             app:layout_constraintTop_toBottomOf="@+id/country"
             />
@@ -151,7 +147,6 @@
             android:layout_marginLeft="6dp"
             android:layout_marginStart="6dp"
             android:layout_marginTop="28dp"
-            android:text="0707389304"
             app:layout_constraintStart_toEndOf="@+id/textView6"
             app:layout_constraintTop_toBottomOf="@+id/email"
             />
@@ -162,7 +157,7 @@
             android:layout_marginLeft="51dp"
             android:layout_marginStart="51dp"
             android:layout_marginTop="15dp"
-            android:text="Slack name"
+            android:text="@string/slack_name"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/textView6"
             />
@@ -173,7 +168,6 @@
             android:layout_marginLeft="26dp"
             android:layout_marginStart="26dp"
             android:layout_marginTop="14dp"
-            android:text="@Korir"
             app:layout_constraintStart_toEndOf="@+id/textView11"
             app:layout_constraintTop_toBottomOf="@+id/phone"
             />
